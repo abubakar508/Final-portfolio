@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/final-portfolio/static/css/main.ecb97969.css",
+    "main.js": "/final-portfolio/static/js/main.ade8a5bc.js",
+    "static/js/787.1acd05c9.chunk.js": "/final-portfolio/static/js/787.1acd05c9.chunk.js",
+    "static/media/Work1.png": "/final-portfolio/static/media/Work1.56f8e69d278ca1f1a364.png",
+    "static/media/DC.png": "/final-portfolio/static/media/DC.b8c105616c72b1d9ad99.png",
+    "static/media/hala-removebg-preview.png": "/final-portfolio/static/media/hala-removebg-preview.89f87ec7b6a4156e39e1.png",
+    "static/media/SR.png": "/final-portfolio/static/media/SR.50abc1e3caddcdfb90c2.png",
+    "static/media/hala.jpg": "/final-portfolio/static/media/hala.b6345d94b3ebcd5dff16.jpg",
+    "static/media/me.png": "/final-portfolio/static/media/me.fe1b7e0f660fda03f589.png",
+    "static/media/QB.png": "/final-portfolio/static/media/QB.cbb4e7e826a1244fdb5b.png",
+    "static/media/UIC.png": "/final-portfolio/static/media/UIC.4e9fec5471e6cc1acb95.png",
+    "static/media/hb.png": "/final-portfolio/static/media/hb.df32948ee9d2ec38ada1.png",
+    "static/media/work5.jpg": "/final-portfolio/static/media/work5.ec6bc32106648527919e.jpg",
+    "static/media/Work2.jpg": "/final-portfolio/static/media/Work2.8ce2dcfde849319b6f92.jpg",
+    "static/media/work3.jpg": "/final-portfolio/static/media/work3.0ae9596bb00d9773ce17.jpg",
+    "static/media/work4.jpg": "/final-portfolio/static/media/work4.9ec37c245302266e99f9.jpg",
+    "static/media/work6.jpg": "/final-portfolio/static/media/work6.71c746fa8c4fac84069c.jpg",
+    "static/media/GPS.png": "/final-portfolio/static/media/GPS.acbe000cc530ea448540.png",
+    "index.html": "/final-portfolio/index.html",
+    "main.ecb97969.css.map": "/final-portfolio/static/css/main.ecb97969.css.map",
+    "main.ade8a5bc.js.map": "/final-portfolio/static/js/main.ade8a5bc.js.map",
+    "787.1acd05c9.chunk.js.map": "/final-portfolio/static/js/787.1acd05c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb97969.css",
+    "static/js/main.ade8a5bc.js"
+  ]
+}

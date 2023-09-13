@@ -1,0 +1,492 @@
+@media (max-width: 768px) {
+    .about-flex{
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+
+
+    }
+  .about {
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  .about-content {
+    margin: 5px;
+  }
+  .title {
+    text-transform: uppercase;
+    > span {
+      color: #f1234f;
+    }
+  }
+  .about-header {
+    margin: 5px;
+    > h2 {
+      text-transform: capitalize;
+      > span {
+        color: #f1234f;
+      }
+    }
+  }
+  .exp {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 5px;
+    grid-gap: 5px;
+  }
+  .exp-section {
+    border: 2px solid red;
+    > h1 {
+      color: #f1234f;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      font-stretch: extra-expanded;
+    }
+  }
+  .add-text-abt {
+    margin: 5px;
+    > small {
+      text-transform: uppercase;
+    }
+  }
+  .about-icon {
+    position: absolute;
+    top: 0;
+    margin-top: 30rem;
+    justify-content: center;
+    z-index: 1000;
+    height: 300px;
+    width: 300px;
+  }
+  .skill-a-icon {
+    height: 300px;
+    width: 300px;
+    color: color-mix(in srgb, blue, gold);
+  }
+  .skill {
+    margin: 15px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  .skill-headers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin: 5px;
+    > li {
+      list-style: none;
+      border-bottom: 3px solid #f1234f;
+      border-radius: 2px;
+      width: 50px;
+      text-transform: uppercase;
+      font-weight: bolder;
+    }
+  }
+
+  .skill-rank-cont {
+    margin-top: 10rem;
+    top: 230px;
+  }
+  .skillrank {
+    display: flex;
+  }
+
+  .Skillrank {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .rank-title {
+    color: #d8d8d8;
+    margin-top: 1rem;
+  }
+  .skill-rank-cont {
+    margin: 5px;
+  }
+  .skill-rank-cont h2 span {
+    color: #ff0000e9;
+  }
+
+  .skill-rank-icon {
+    transform: rotate(-90deg);
+    color: orange;
+    text-decoration: none;
+    background: transparent;
+  }
+
+  .skill-link {
+    color: orange;
+    text-decoration: none;
+  }
+  .skill-rank-item {
+    margin-top: 0.5rem;
+    background: transparent;
+  }
+
+  .skill-rank-item span {
+    background: transparent;
+    color: #d8d8d8;
+  }
+
+  .skills-bar {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 85%;
+    margin-top: 0.6rem;
+  }
+
+  .skills-bar-1 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 92%;
+    margin-top: 0.6rem;
+  }
+
+  .skills-bar-2 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 70%;
+    margin-top: 0.6rem;
+  }
+
+  .skills-bar-3 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 99%;
+    margin-top: 0.6rem;
+  }
+
+  .skills-bar-4 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 50%;
+    margin-top: 0.6rem;
+  }
+  .skills-bar-5 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 39%;
+    margin-top: 0.6rem;
+  }
+  .skills-bar-6 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 40%;
+    margin-top: 0.6rem;
+  }
+  .acad{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 5px;
+
+  }
+  .academia{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+
+  }
+  .experie{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .experience{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .pg{
+    margin: 5px;
+  }
+  .pg-data{
+    margin: 5px;
+  }
+  .pg-small{
+    margin: 5px;
+  }
+  
+}
+.about-flex{
+    margin: 5px;
+   display: flex;
+   height: 500px;
+   align-items: center;
+}
+.about {
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.about-content {
+  margin: 5px;
+}
+.title {
+  text-transform: uppercase;
+  > span {
+    color: #f1234f;
+  }
+}
+.about-header {
+  margin: 5px;
+  > h2 {
+    text-transform: capitalize;
+    > span {
+      color: #f1234f;
+    }
+  }
+}
+.exp {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 5px;
+  grid-gap: 5px;
+}
+.exp-section {
+    border: 2px solid #f1234f;
+  > h1 {
+    color: #f1234f;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-stretch: extra-expanded;
+  }
+}
+.add-text-abt {
+  margin: 5px;
+  > small {
+    text-transform: uppercase;
+  }
+}
+.about-icon {
+  position: absolute;
+  top: 0;
+  margin-top: 30rem;
+  justify-content: center;
+  z-index: 1000;
+  height: 300px;
+  width: 300px;
+}
+.skill-a-icon {
+  height: 300px;
+  width: 300px;
+  color: color-mix(in srgb, blue, gold);
+}
+.skill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+  }
+  .skill-headers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin: 5px;
+    > li {
+      list-style: none;
+      border-bottom: 3px solid #f1234f;
+      border-radius: 2px;
+      width: 50px;
+      text-transform: uppercase;
+    }
+  }
+
+
+  .Skillrank {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .skill-rank-cont {
+    margin: 5px;
+    width: 400px;
+  }
+  .skill-rank-item {
+    margin-top: 0.5rem;
+    background: transparent;
+    box-shadow: 2px 2px 2px 2px #181842;
+  }
+  .abt-skll-icon{
+    justify-content: space-around;
+    display: flex;
+    width: 250px;
+  }
+  .act-fin{
+    justify-content: space-around;
+    display: flex;
+    width: 150px;
+  }
+  .data-base{
+    justify-content: space-around;
+    display: flex;
+    width: 200px;
+  }
+
+  .skill-rank-item span {
+    background: transparent;
+    color: #d8d8d8;
+    text-align: left;
+    display: flex;
+  }
+
+  .skills-bar {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 85%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+    
+  }
+  .skills-bar:hover{
+    width: 0%;
+    
+  }
+
+  .skills-bar-1 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 92%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+
+  .skills-bar-1:hover{
+    width: 0%;
+  }
+
+  .skills-bar-2 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 70%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+  .skills-bar-2:hover{
+    width: 0%;
+  }
+
+  .skills-bar-3 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 99%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+.skills-bar-3:hover{
+    width: 0%;
+}
+  .skills-bar-4 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 50%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+  .skills-bar-4:hover{
+    width: 0%;
+  }
+  .skills-bar-5 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 39%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+  .skills-bar-5:hover{
+    width: 0%;
+  }
+  .skills-bar-6 {
+    background-color: orange;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    width: 40%;
+    margin-top: 0.6rem;
+    transition: 3s ease;
+  }
+  .skills-bar-6:hover{
+    width: 0%;
+  }
+
+  .acad{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 5px;
+
+  }
+  .academia{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+
+  }
+  .experie{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .experience{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .pg{
+    margin: 5px;
+  }
+  .pg-data{
+    margin: 5px;
+  }
+  .pg-small{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
